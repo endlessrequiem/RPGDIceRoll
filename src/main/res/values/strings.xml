@@ -1,0 +1,110 @@
+<resources>
+    <string name="app_name">RPG Dice Roll</string>
+    <string-array name="myArray">
+        <item>Alice</item>
+        <item>Ali</item>
+        <item>Alcazar</item>
+        <item>Okkam</item>
+        <item>Boris</item>
+        <item>Ashford</item>
+        <item>Atwood</item>
+        <item>Bacall</item>
+        <item>Barkley</item>
+        <item>Barrett</item>
+        <item>Baxter</item>
+        <item>Avery</item>
+        <item>Bartholomew</item>
+        <item>Benny</item>
+        <item>Archer</item>
+        <item>Slade</item>
+        <item>Abe</item>
+        <item>Bishop</item>
+        <item>High Moon</item>
+        <item>Blackstone</item>
+        <item>Ruby</item>
+        <item>Brenner</item>
+        <item>Blade</item>
+        <item>Bex</item>
+        <item>Byrd</item>
+        <item>Chadwick</item>
+        <item>Virgil</item>
+        <item>Zach</item>
+        <item>Xavier</item>
+        <item>Claymont</item>
+        <item>The Bastard</item>
+        <item>Conley</item>
+        <item>Dee Dee</item>
+        <item>Daria</item>
+        <item>Mario</item>
+        <item>Mark</item>
+        <item>Dawayne</item>
+        <item>Wayne</item>
+        <item>Xero</item>
+        <item>Jordan</item>
+        <item>Lancaster</item>
+        <item>Lightfoot</item>
+        <item>Llewellyn</item>
+        <item>Montgomery</item>
+        <item>Niles</item>
+        <item>North</item>
+        <item>Parker</item>
+        <item>Reeve</item>
+        <item>Phyllis</item>
+        <item>Sand</item>
+        <item>Mr. Dumbface</item>
+        <item>Mrs.Dumbface</item>
+        <item>Trump</item>
+        <item>Tank</item>
+        <item>Trussell</item>
+        <item>Turk</item>
+        <item>Dirk</item>
+        <item>Rusty</item>
+        <item>Sheppard</item>
+        <item>Sherwood</item>
+        <item>Simpson</item>
+        <item>Stanley</item>
+        <item>Kubrik</item>
+        <item>Clancy</item>
+        <item>Quincy</item>
+        <item>Shelby</item>
+        <item>Shocker</item>
+        <item>Sue</item>
+        <item>Zhu</item>
+        <item>Zen</item>
+        <item>Zi</item>
+        <item>Xi</item>
+        <item>Pi</item>
+        <item>Tomokoi</item>
+        <item>Lincoln</item>
+        <item>Kaya</item>
+        <item>Jackson</item>
+        <item>Charlie</item>
+        <item>Andrew</item>
+        <item>Takeashita</item>
+        <item>Koji</item>
+        <item>Kanemoto</item>
+        <item>Shibata</item>
+        <item>Kiao</item>
+        <item>Khan</item>
+        <item>Bane</item>
+        <item>Dane</item>
+        <item>Sami</item>
+        <item>Kevin</item>
+        <item>Evan</item>
+        <item>Flynn</item>
+        <item>Clint</item>
+        <item>Dirk</item>
+        <item>Milker</item>
+        <item>Shocker</item>
+    </string-array>
+
+    <string-array name="criticalmiss">
+        <item>Critical miss!</item>
+    </string-array>
+
+    <string-array name="criticalhit">
+        <item>Critical hit!</item>
+    </string-array>
+
+
+</resources>
